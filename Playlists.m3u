@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://10.20.30.30:8989/Srktv/tracks-v1a1/mono.ts.m3u8
@@ -154,3 +154,177 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",জঙ্গল Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+TATA
+
+
+#EXTINF:-1 ,& Pictures HD
+http://filex.me:8080/live/755766/755766/275042.ts
+#EXTINF:-1 ,এন্ড পিকচার HD
+http://filex.me:8080/live/755766/755766/35.ts
+#EXTINF:-1 ,SONY MAX HD
+http://filex.me:8080/live/755766/755766/275045.ts
+#EXTINF:-1 ,ছনি ম্যাক্স HD
+http://filex.me:8080/live/755766/755766/33.ts
+#EXTINF:-1 ,STAR GOLD HD
+http://filex.me:8080/live/755766/755766/275049.ts
+#EXTINF:-1 ,স্টার গোল্ড HD
+http://filex.me:8080/live/755766/755766/29.ts
+#EXTINF:-1 ,STAR GOLD Select HD
+http://filex.me:8080/live/755766/755766/275051.ts
+#EXTINF:-1 ,স্টার গোল্ড সিলেক্ট HD
+http://filex.me:8080/live/755766/755766/28.ts
+#EXTINF:-1 ,STAR GOLD Thrills HD
+http://filex.me:8080/live/755766/755766/275052.ts
+#EXTINF:-1 ,স্টার গোল্ড থ্রিলার HD
+http://filex.me:8080/live/755766/755766/189473.ts
+#EXTINF:-1 ,ZEE Cinema HD
+http://filex.me:8080/live/755766/755766/275058.ts
+#EXTINF:-1 ,& FLIX HD
+http://filex.me:8080/live/755766/755766/275041.ts
+#EXTINF:-1 ,এন্ড ফ্লিক্স HD
+http://filex.me:8080/live/755766/755766/55.ts
+#EXTINF:-1 ,& Prive HD
+http://filex.me:8080/live/755766/755766/275043.ts
+#EXTINF:-1 ,এন্ড প্রাইভ HD
+http://filex.me:8080/live/755766/755766/53043.ts
+
+#EXTINF:-1 ,SONY PIX HD
+http://filex.me:8080/live/755766/755766/275048.ts
+#EXTINF:-1 ,ছনি পিক্স HD
+http://filex.me:8080/live/755766/755766/75.ts
+#EXTINF:-1 ,STAR Movies HD
+http://filex.me:8080/live/755766/755766/275053.ts
+#EXTINF:-1 ,স্টার মুভিস HD
+http://filex.me:8080/live/755766/755766/52223.ts
+#EXTINF:-1 ,STAR Movies Select HD
+http://filex.me:8080/live/755766/755766/275054.ts
+#EXTINF:-1 ,tvg-logo="https://i.imgur.com/LP27MEL.png", Movie NOW HD
+http://filex.me:8080/live/755766/755766/113.ts
+#EXTINF:-1 ,MN PLUS HD
+http://filex.me:8080/live/755766/755766/275057.ts
+#EXTINF:-1 ,MNX
+http://filex.me:8080/live/755766/755766/530420.ts
+#EXTINF:-1 ,Mnx HD
+http://filex.me:8080/live/755766/755766/530421.ts
+
+#EXTINF:-1 ,SONY SAB HD
+http://filex.me:8080/live/755766/755766/275044.ts
+#EXTINF:-1 ,সনি সাবটিভি HD
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 ,ZEE TV HD
+http://filex.me:8080/live/755766/755766/275034.ts
+#EXTINF:-1 ,জি টিভি HD
+http://filex.me:8080/live/755766/755766/13.ts
+#EXTINF:-1 ,SONY SET HD
+http://filex.me:8080/live/755766/755766/275035.ts
+#EXTINF:-1 ,সনি সেট HD
+http://filex.me:8080/live/755766/755766/15.ts
+#EXTINF:-1 ,Colors HD
+http://filex.me:8080/live/755766/755766/275036.ts
+#EXTINF:-1 ,কালারস HD
+http://filex.me:8080/live/755766/755766/19.ts
+#EXTINF:-1 ,& TV HD
+http://filex.me:8080/live/755766/755766/275040.ts
+#EXTINF:-1 ,এন্ড টিভি HD
+http://filex.me:8080/live/755766/755766/23.ts
+
+#EXTINF:-1 ,SONY MAX 2 HD
+http://filex.me:8080/live/755766/755766/275046.ts
+#EXTINF:-1 ,STAR GOLD 2 HD
+http://filex.me:8080/live/755766/755766/275050.ts
+#EXTINF:-1 ,ZEE Bollywood HD
+http://filex.me:8080/live/755766/755766/275059.ts
+#EXTINF:-1 ,ZEE Classic HD
+http://filex.me:8080/live/755766/755766/275061.ts
+#EXTINF:-1 ,SHEMAROO BOLLYWOOD HD
+http://filex.me:8080/live/755766/755766/142889.ts
+
+
+
+
+
+Hollywood DUBBED
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 1 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 1 FHD
+http://filex.me:8080/live/755766/755766/533221.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 2 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 2 FHD
+http://filex.me:8080/live/755766/755766/533222.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 3 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 3 FHD
+http://filex.me:8080/live/755766/755766/533223.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 4 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 4 FHD
+http://filex.me:8080/live/755766/755766/533224.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 5 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 5 FHD
+http://filex.me:8080/live/755766/755766/533225.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 6 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 6 FHD
+http://filex.me:8080/live/755766/755766/533226.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 7 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 7 FHD
+http://filex.me:8080/live/755766/755766/533227.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 8 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 8 FHD
+http://filex.me:8080/live/755766/755766/533228.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 9 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 9 FHD
+http://filex.me:8080/live/755766/755766/533229.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 10 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 10 FHD
+http://filex.me:8080/live/755766/755766/533230.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 11 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 11 FHD
+http://filex.me:8080/live/755766/755766/533231.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 12 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 12 FHD
+http://filex.me:8080/live/755766/755766/533232.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 13 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 13 FHD
+http://filex.me:8080/live/755766/755766/533233.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 14 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 14 FHD
+http://filex.me:8080/live/755766/755766/533234.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 15 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 15 FHD
+http://filex.me:8080/live/755766/755766/533235.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 16 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 16 FHD
+http://filex.me:8080/live/755766/755766/533236.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 17 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 17 FHD
+http://filex.me:8080/live/755766/755766/533237.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 18 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 18 FHD
+http://filex.me:8080/live/755766/755766/533238.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 19 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 19 FHD
+http://filex.me:8080/live/755766/755766/533239.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 20 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 20 FHD
+http://filex.me:8080/live/755766/755766/533240.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 21 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 21 FHD
+http://filex.me:8080/live/755766/755766/533241.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 22 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 22 FHD
+http://filex.me:8080/live/755766/755766/533242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 23 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 23 FHD
+http://filex.me:8080/live/755766/755766/533243.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 24 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 24 FHD
+http://filex.me:8080/live/755766/755766/533244.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 25 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 25 FHD
+http://filex.me:8080/live/755766/755766/533245.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 26 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 26 FHD
+http://filex.me:8080/live/755766/755766/533246.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 27 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 27 FHD
+http://filex.me:8080/live/755766/755766/533247.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 28 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 28 FHD
+http://filex.me:8080/live/755766/755766/533248.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 29 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 29 FHD
+http://filex.me:8080/live/755766/755766/533249.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 30 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 30 FHD
+http://filex.me:8080/live/755766/755766/533250.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 31 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 31 FHD
+http://filex.me:8080/live/755766/755766/533251.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 32 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 32 FHD
+http://filex.me:8080/live/755766/755766/533252.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 33 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 33 FHD
+http://filex.me:8080/live/755766/755766/533253.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 34 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 34 FHD
+http://filex.me:8080/live/755766/755766/533254.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 35 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 35 FHD
+http://filex.me:8080/live/755766/755766/533255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 36 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 36 FHD
+http://filex.me:8080/live/755766/755766/533256.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 37 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 37 FHD
+http://filex.me:8080/live/755766/755766/533257.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 38 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 38 FHD
+http://filex.me:8080/live/755766/755766/533258.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 39 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 39 FHD
+http://filex.me:8080/live/755766/755766/533259.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 40 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 40 FHD
+http://filex.me:8080/live/755766/755766/533260.ts
