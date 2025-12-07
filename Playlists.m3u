@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://10.20.30.30:8989/Srktv/tracks-v1a1/mono.ts.m3u8
@@ -151,6 +152,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://uplo_logo.png",ডোরেমন
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimego.png",গোপাল ভাড়
-https://loudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",জঙ্গল Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
