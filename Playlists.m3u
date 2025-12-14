@@ -152,3 +152,16 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",জঙ্গল Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="HUNGAMA KIDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62747.png" group-title="Tata Play",HUNGAMA KIDS
+https://stalker.tnm3us.workers.dev/63016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SONIC" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61308.jpg" group-title="Tata Play",24X7 - SONIC
+https://stalker.tnm3us.workers.dev/61530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - POWER RANGERS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62321.jpg" group-title="Tata Play",24X7 - POWER RANGERS
+https://stalker.tnm3us.workers.dev/625RANGERS
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - POKEMON" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58248.jpg" group-title="Tata Play",24X7 - POKEMON
+https://stalker.tnm3us.workers.dev/58464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TOM AND JERRY." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58377.png" group-title="Tata Play",24X7 - TOM AND JERRY.
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | SHINCHAN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58409.jpg" group-title="Tata Play",24X7 - KIDS CARTOON | SHINCHAN
+https://stalker.tnm3us.workers.dev/58625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | DORAEMON HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58418.png" group-title="Tata Play",24X7 - KIDS CARTOON | DORAEMON HINDI
+https://stalker.tnm3us.workers.dev/58634.m3u8
