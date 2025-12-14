@@ -6,8 +6,8 @@ http://10.20.30.30:8989/Srktv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest/scale-to-width-down/235?cb=20220419153100",Peace TV বাংলা
 http://10.20.30.30:8989/PeaceTvBangla/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",T-Sports BDIX
-http://10.20.30.30:8989/WILLOW/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T-Sports BDIX
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1765712799&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1c341ee0ee30269027e909050374921d
 
 
 #EXTINF:-1 tvg-id="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",বিটিভি
