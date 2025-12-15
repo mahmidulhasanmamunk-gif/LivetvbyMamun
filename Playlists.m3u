@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://10.20.30.30:8989/Srktv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest/scale-to-width-down/235?cb=20220419153100",Peace TV বাংলা
-http://10.20.30.30:8989/PeaceTvBangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtq_8iAPS7JkX2ZtEToTiRJpiEaaRyAGudeKJiwdLB_A&s=10",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_240p/chunks.m3u8?nimblesessionid=8358853
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png",T-Sports BDIX
 https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",বিটিভি
