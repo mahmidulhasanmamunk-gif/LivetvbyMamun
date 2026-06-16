@@ -5,11 +5,10 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://10.20.30.30:8989/Srktv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtq_8iAPS7JkX2ZtEToTiRJpiEaaRyAGudeKJiwdLB_A&s=10",Discover Pakistan
 http://163.61.227.29:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png",T-Sports BDIX
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1770870855&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7c3a0e4d670e96f0dcef97d33b30307f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",T-Sports BDIX
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",বিটিভি
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
-http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png",দ্বীপ্ত টি়ভি
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
